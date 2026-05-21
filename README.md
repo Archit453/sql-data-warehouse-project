@@ -36,4 +36,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🌟 About Me
 
-Hi there! I'm **Archit Panda**. I’m a BTech student on a mission to make learning and working with data enjoyable and engaging!
+Hi there! I'm **Archit Panda**. I’m a BTech student on a mission to learn and enjoy working with data !
